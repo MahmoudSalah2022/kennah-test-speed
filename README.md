@@ -1,1 +1,0 @@
-# kennah-test-speed
